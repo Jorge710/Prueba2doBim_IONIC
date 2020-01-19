@@ -1,0 +1,7 @@
+{
+  "name": "app-AgendaCitas",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
